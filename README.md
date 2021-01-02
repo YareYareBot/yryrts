@@ -51,7 +51,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`termux-whatsapp-bot`](https://github.com/YareYareBot/termux-whatsapp-bot)
 
 ## DONASI
 * Pulsa : 089504242949 NOVAN
